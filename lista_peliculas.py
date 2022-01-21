@@ -8,6 +8,9 @@ Tutorial educativo para aprender a analizar y extraer información de páginas w
 La principal tarea es analizar cómo está estructurada la información en la página web.
 Para ello usa el inspector de las herramientas de desarrolladores de tu navegador.
 
+Tutoriales:
+* https://www.geeksforgeeks.org/scrape-imdb-movie-rating-and-details-using-python/
+
 """
 url = 'https://www.imdb.com/chart/top/'
 res = requests.get(url)
