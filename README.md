@@ -1,3 +1,4 @@
 # Ejemplos Scraping
-Ejemplos scraping para el aula
 
+Ejemplos de scraping para el aula
+* Películas de imdb
